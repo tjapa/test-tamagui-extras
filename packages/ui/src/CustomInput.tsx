@@ -5,8 +5,8 @@ export const CustomInput = styled(TamaguiInput, {
   borderColor: 'blue',
   color: 'red',
   focusStyle: {
-    backgroundColor: 'yellow',
-    borderColor: 'yellow',
+    backgroundColor: 'green',
+    borderColor: 'purple',
     color: 'yellow',
   },
 })

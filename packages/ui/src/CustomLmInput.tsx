@@ -6,8 +6,8 @@ export const CustomLmInput = styled(TamaguiInput, {
   borderColor: 'blue',
   color: 'red',
   focusStyle: {
-    backgroundColor: 'yellow',
-    borderColor: 'yellow',
+    backgroundColor: 'green',
+    borderColor: 'purple',
     color: 'yellow',
   },
 })
